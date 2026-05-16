@@ -1,0 +1,13 @@
+name = "GameRule Manager"
+filename = "gamerule_manager-2.0-beta.2-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9189ae57c7de8ee8657a2f56cc7aea67d2c32815"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7790144
+project-id = 1060896

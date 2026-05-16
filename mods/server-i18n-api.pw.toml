@@ -1,0 +1,13 @@
+name = "Server I18n API"
+filename = "server_i18n_api-1.5.1-1.21.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41ec4109bdac19e9bef8b0f8ea41434eba9220d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7741975
+project-id = 1278793

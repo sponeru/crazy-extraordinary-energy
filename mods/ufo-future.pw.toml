@@ -1,0 +1,13 @@
+name = "UFO FUTURE"
+filename = "ufo-2.1-fix5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6926e6a26053c41764f3f381feba035434084db0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8097001
+project-id = 1372445

@@ -1,0 +1,13 @@
+name = "PolyglotTooltip (Multi Language Search)"
+filename = "polyglottooltip-1.21.1-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef67ff009450ae698148399a5e44c47c709fc4c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7980860
+project-id = 1485078

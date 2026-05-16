@@ -1,0 +1,13 @@
+name = "Evolved Mekanism Extras"
+filename = "EvolvedMekanismExtras-1.21.1-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89c8104f234b37ec1f48842997cbec24e9fb7a17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8081590
+project-id = 1268159

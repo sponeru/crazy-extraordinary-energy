@@ -3,3 +3,353 @@ hash-format = "sha256"
 [[files]]
 file = "LICENSE"
 hash = "df66166906fd9d4370930b5109d39e19011abfee56b394650310781bc4c286b5"
+
+[[files]]
+file = "mods/advancedae.pw.toml"
+hash = "a2aafa3ac24eef1aad644a9633f9f856271ed97c8da6a6855627f9eaea6e44f4"
+metafile = true
+
+[[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
+metafile = true
+
+[[files]]
+file = "mods/ae2-lightning-tech.pw.toml"
+hash = "84e0bca5446f5480cb0053ad501e5a367b8f19af58a65d7b3b0220771d90e2c8"
+metafile = true
+
+[[files]]
+file = "mods/ae2-mega-things.pw.toml"
+hash = "e71b202da5d182dd538f92cddd23ca3d1018af33034c3b0a2a24dbdecc147e3e"
+metafile = true
+
+[[files]]
+file = "mods/ae2-overclocked.pw.toml"
+hash = "45473cab70a55ecf63355f2318073c1fe82b5abe408c1aa3b3ab382d85a10628"
+metafile = true
+
+[[files]]
+file = "mods/ae2-tabbed-view-cells.pw.toml"
+hash = "9c943c448cbdebe58b7603399f8ef925168a95e36b4a734eefc12a59f8c27424"
+metafile = true
+
+[[files]]
+file = "mods/ae2-things-forge.pw.toml"
+hash = "67b76e29b60a2869859d15a85ff2ba4377a0a21c9ad57f3213ec866605ca04c5"
+metafile = true
+
+[[files]]
+file = "mods/ae2-toogleable-view-cell.pw.toml"
+hash = "150488bcfc83c8d8c88472bd035e15e412c06bf79603a74e3e51698c275267eb"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "f15037bbd326999cb63b1267628f64c29ca3df1650c2276e492cb5ff88fbed7e"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/certain-questing-additions.pw.toml"
+hash = "f439e088fd76f018697366148c93228657cb39993493dab8ea4b1350008da94e"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "3c5f7edea027f0da74058bdb40b4e333d41df0246c1a8ebcf7df160c34565402"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+metafile = true
+
+[[files]]
+file = "mods/custom-machinery-mekanism.pw.toml"
+hash = "a6118ac88634c6eea09b57bceea8c771aa73af29e644a4db0ade2f1abddda91e"
+metafile = true
+
+[[files]]
+file = "mods/custom-machinery.pw.toml"
+hash = "ab5e160f7463c7d1b0269ff2540ec2a352196ba31ff7fecb2e6c527e562bf1fd"
+metafile = true
+
+[[files]]
+file = "mods/difficulty-lock.pw.toml"
+hash = "d81bf4569c8bb506fc26b97feb08310778bd9d36991e7576ecfe3974edb63a09"
+metafile = true
+
+[[files]]
+file = "mods/dyson-cube-project.pw.toml"
+hash = "1c8bced0d438028749bdae28d96647825ff469ec9780fb269e0ee421012aec64"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "732230fce4618b7b3f399e48a9fa632731ebbf4226e39cbcdac06586be15dd5f"
+metafile = true
+
+[[files]]
+file = "mods/emi-backport.pw.toml"
+hash = "555b9a9992fd16a6d7ab9dd796e5370c3268a0e4f18f9a19e26dac2e88187efb"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "ae65d1488be0f83b339ac6022115cd284dfc5d88bcfdf7a65fbfdc0dd9f1254b"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
+metafile = true
+
+[[files]]
+file = "mods/evolved-mekanism-extras.pw.toml"
+hash = "2c15a35d7291e04a0ed5cd2a01b6113090264ea6406c2e7685249b03ba10d963"
+metafile = true
+
+[[files]]
+file = "mods/evolved-mekanism.pw.toml"
+hash = "58c1630a8fbf4a292459cd20c64b37e96a60ee85d409e79aa9acb6f6c08b5db1"
+metafile = true
+
+[[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "f8bff302408f68c7e3dc004cef9e9f63e9cc281defe174fcefd623d5b99f86cf"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "100d56915243e9a577ec572cc118628e3bef2f1e7be015585335d307dbb5dc19"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "aaa5d15a2ebf6ae368561fc49d7994ffa5084138942095cb4ded4c8921189437"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "54b6ce5c7ccf54db4cf8888e1c7e56b2d840cddc0e3e3fd15869a03d5c76c2ef"
+metafile = true
+
+[[files]]
+file = "mods/ftb-pause-menu-api.pw.toml"
+hash = "79c47651dea8683071596152f4e6b33efb48602cb8204baf7da6455f55ff7ad5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "7557cd72044ad985b08e452dba7461feb219469e2fea97ea32c6ecd8458b2fd8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-team-bases.pw.toml"
+hash = "13a8f2ebbef774295d4038b60b493a1b01739ed96303f798da80daece965d8cf"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "15dc3b581cc649acea7f375427dfd4116b29d724be1092c8ca306e968a0a4a98"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "43287a3c5030a05b370b45ec1ab9a4a8d5c3d43e9c740aae5218f07ffd041fd2"
+metafile = true
+
+[[files]]
+file = "mods/gamerule-manager.pw.toml"
+hash = "dcbd59ed5f37cb53b4a203cb522f5014275f96494766c7f2d92b901094e8c1cf"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "5bc0953394cdd5a21d9f9c5a89dfa62ff84e43fc6a19fc5afdb7834e152386b9"
+metafile = true
+
+[[files]]
+file = "mods/iglee-library.pw.toml"
+hash = "f0faf003008fa89253cdc43a85873ec62ef86057c3e6997c400ef748251bfdbf"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
+metafile = true
+
+[[files]]
+file = "mods/jaopca-extras.pw.toml"
+hash = "4edc2a3c25b29e64183936c9c1839f6da68c0a62d32033d5ff44b57300cacd2e"
+metafile = true
+
+[[files]]
+file = "mods/jaopca.pw.toml"
+hash = "7d77d5de58bdea8cf0a6f0c849cb3e46e76447b41257801d81041f14996bca55"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
+metafile = true
+
+[[files]]
+file = "mods/jonns-trophies.pw.toml"
+hash = "5f8d47470d3b79214a2800e8aff6e9cacabed303300dae5e5a13465f4abb9ebc"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "33e3738e829c34ffc4687d025c29d870c2661f49383704e389f37d7d0da81d4c"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-mekanism.pw.toml"
+hash = "d8e177615c38e56e8f712f9144c0f9f50e74adf5fe88c7fb0aa88e33cb1dbcdc"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
+metafile = true
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "d79c309ece70a48b0da48e04c8b297747f79fc5795467ad53d4da8f2bf09a3f9"
+metafile = true
+
+[[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "e551caa3f5272461a2c64b948499434fad21854f5edc6750ed9e432174d9d33f"
+metafile = true
+
+[[files]]
+file = "mods/mekagenjei-mekanism-generator-addon.pw.toml"
+hash = "347d12ca0b98a00e5c1a85817b3cf7d1013b3855d2342aaa95abc9dab7f1e614"
+metafile = true
+
+[[files]]
+file = "mods/mekajadeupgrades.pw.toml"
+hash = "20ba1021bb3047a3c56ffa39b40c97638211934b3fb129b9ee9b66e99387822d"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-advancedgenerators.pw.toml"
+hash = "ad6db63cf4fb16fc6a690a2aea5c17f2ee10dd6593190878eb1cf4eafe76f98f"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-curios.pw.toml"
+hash = "9a68b7147925f990361923baf0647016ca2f2249c6f95db8e3c46d997dc175de"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-empowered-core.pw.toml"
+hash = "0a94d95835243b8c07f7ba0b2f47a80a9910bb2f959864c3d78d9454d559a1c4"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-empowered.pw.toml"
+hash = "e9ebf653de7910b0bbef52a94081e00b67357bc880570b5859c1eb983a151c2e"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-extras.pw.toml"
+hash = "4b2fc476954ead3160d38c31db6c8007afd6f2b3aa82371c2e52b4cd2a4c56bf"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "d270c535152d5388823cbd3913a0f14b088ef14f91f9eec61444f1102d19bdc1"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-more-machine.pw.toml"
+hash = "01a83234f5e1f787de66ee6963a0429a58dca93ebce6bf4f057b978ab10f6c58"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "2d6a6b9cef775c2baff586138fd0833595000295b645cc9813f84833c38cb415"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-water-generator-rebuild.pw.toml"
+hash = "f1e57de1a7d7f3882a42fa055a1958b92045c1ba34cbf007a437774b450ffaf3"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "290b13afab94146d1159d821b73c8c98f5299b4df75fd28e826f9fd409e9bb40"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "6893d8fcc336361503c0415ce2847e2734171d21beca181f754a7c8002e39476"
+metafile = true
+
+[[files]]
+file = "mods/morethermalevaporation.pw.toml"
+hash = "8bcbfb7138bcdc38f19436b59e30018cf6fc129223161231c1b524f5c1edd0ce"
+metafile = true
+
+[[files]]
+file = "mods/neo-eco-ae-extension.pw.toml"
+hash = "1fa65043e916af8734543e5cccc60cc6c98ce7dcf1fd3bb4731fc170e99f1732"
+metafile = true
+
+[[files]]
+file = "mods/polyglottooltip.pw.toml"
+hash = "8bb84a97a7b82c3ab26c5a0ee09e03656127f6e64b47211a4f7734a5aa0d21e0"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
+metafile = true
+
+[[files]]
+file = "mods/server-i18n-api.pw.toml"
+hash = "11d55aea89cfee0f655697e888879444d6ac50d7ed222afc025d5dd4a7491e1a"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "b4839b51f328fbd3af8addab6905f444a425ffd8d540966766bbe2947528cba8"
+metafile = true
+
+[[files]]
+file = "mods/ufo-future.pw.toml"
+hash = "63d81918f2ec83e29df12d7c48573bbbe3797f9283373f2148b0782bf2d40769"
+metafile = true

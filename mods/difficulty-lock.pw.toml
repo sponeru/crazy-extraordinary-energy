@@ -1,0 +1,13 @@
+name = "Difficulty Lock"
+filename = "difficultylock-1.21.1-4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "404d98c7e2461089a217f3c78a75dafa54e0b0e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6186186
+project-id = 390886
