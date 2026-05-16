@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "df66166906fd9d4370930b5109d39e19011abfee56b394650310781bc4c286b5"
