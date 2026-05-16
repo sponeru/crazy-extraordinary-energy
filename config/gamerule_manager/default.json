@@ -1,0 +1,10 @@
+{
+    "default": {
+        "doDaylightCycle": false,
+        "doMobSpawning": false
+    },
+    "difficulty": {
+        "value": "peaceful",
+        "lock": true
+    }
+}

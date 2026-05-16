@@ -1,0 +1,6 @@
+config/*-client.toml
+config/*-client.snbt
+config/*-client.json
+config/emixx/*-client.toml
+config/jei/*
+defaultconfigs/certain_questing_additions/client-config.snbt
